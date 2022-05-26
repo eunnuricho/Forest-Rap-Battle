@@ -99,45 +99,38 @@
 ## 프로젝트 명세
 
 #### 1. 아키텍처
-
-<<<<<<< HEAD
 ![](README.assets/아키텍처.png)
+
+
 
 #### 2. ERD
 
 ![](README.assets/ERD.png)
 
+
+
+
+
 #### 3. 와이어프레임
 
 ![](README.assets/와이어프레임.png)
+
+
+
+
 
 #### 4. 클래스 다이어그램
 
 ![](README.assets/ClassDiagram.png)
 
+
+
+
+
 #### 5. 기능 명세서
 
 ![](README.assets/기능명세서.png)
 =======
-![아키텍처](readme_image/아키텍처.png)
-
-#### 2. ERD
-
-![ERD](readme_image/ERD.png)
-
-#### 3. 와이어프레임
-
-![와이어프레임](readme_image/와이어프레임.png)
-
-#### 4. 클래스 다이어그램
-
-![ClassDiagram](readme_image/ClassDiagram.png)
-
-#### 5. 기능 명세서
-
-![기능명세서](readme_image/기능명세서.png)
->>>>>>> c872150ad77261dce9666f5d07002467bfac6c50
-
 
 
 ## 팀원 소개
